@@ -1,6 +1,1 @@
-CSAT - Customer Satisfaction survey (EPAM)
-SFDC - SalesForceDotCom
-UAM - User Access Management
-TBA - To Be Announced
-GWS - Group Website 
-
+lorem ipsum
